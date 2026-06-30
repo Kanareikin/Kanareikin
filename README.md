@@ -36,6 +36,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![OpenClaw](https://img.shields.io/badge/OpenClaw-FF6B00?style=for-the-badge&logo=openai&logoColor=white)
+![LLM_Studio](https://img.shields.io/badge/LLM_Studio-A855F7?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Hermes](https://img.shields.io/badge/Hermes-00D4AA?style=for-the-badge&logo=heroku&logoColor=white)
 
 </div>
 
