@@ -14,7 +14,7 @@
 **DevOps / SRE Engineer** | Linux Enthusiast | Automation Lover
 
 [![GitHub](https://img.shields.io/badge/GitHub-Kanareikin-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kanareikin)
-[![Telegram](https://img.shields.io/badge/Telegram-@kanareikin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kanareikin)
+[![Telegram](https://img.shields.io/badge/Telegram-@EvgenyiAdmin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/EvgenyiAdmin)
 
 </div>
 
