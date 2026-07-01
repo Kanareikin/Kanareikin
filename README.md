@@ -46,26 +46,6 @@
 
 ---
 
-### `< stats />`
-
-<div align="center">
-
-![Kanareikin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kanareikin&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kanareikin&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9)
-
-</div>
-
----
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Kanareikin&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10)
-
-</div>
-
----
-
 <div align="center">
 
 ```
@@ -73,7 +53,5 @@
 │  "Автоматизируй всё, что можно повторить дважды" │
 └──────────────────────────────────────────────────┘
 ```
-
-![Visitors](https://komarev.com/ghpvc/?username=Kanareikin&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
